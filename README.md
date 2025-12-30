@@ -1,53 +1,45 @@
-📰 News Topic Classification Using BERT
 
-📌 Objective
+# 📰 News Topic Classification Using BERT
 
-Build and fine-tune a BERT-based NLP model to classify news headlines into predefined topic categories.
+### 📌 Objective
 
-📂 Dataset
+Build and fine-tune a **BERT-based NLP model** to classify news headlines into predefined topic categories.
 
-AG News Dataset
+### 📂 Dataset
 
-World
+* **AG News Dataset**
 
-Sports
+  * World
+  * Sports
+  * Business
+  * Sci/Tech
 
-Business
+### ⚙️ Methodology
 
-Sci/Tech
+* Tokenized text using **BERT tokenizer**
+* Fine-tuned **bert-base-uncased** using transfer learning
+* Evaluated performance using **Accuracy** and **F1-score**
+* Deployed the model using **Gradio / Streamlit** for real-time inference
 
-⚙️ Methodology
+### 🛠️ Tools & Libraries
 
-Tokenized text using BERT tokenizer
+* Hugging Face Transformers
+* PyTorch
+* Scikit-learn
+* Gradio / Streamlit
 
-Fine-tuned bert-base-uncased using transfer learning
+### 📊 Evaluation Metrics
 
-Evaluated performance using Accuracy and F1-score
+* Accuracy
+* Weighted F1-score
 
-Deployed the model using Gradio / Streamlit for real-time inference
+### 🎯 Skills Demonstrated
 
-🛠️ Tools & Libraries
+* NLP with Transformers
+* Transfer learning
+* Text classification
+* Model deployment
 
-Hugging Face Transformers
+---
 
-PyTorch
-
-Scikit-learn
-
-Gradio / Streamlit
-
-📊 Evaluation Metrics
-
-Accuracy
-
-Weighted F1-score
-
-🎯 Skills Demonstrated
-
-NLP with Transformers
-
-Transfer learning
-
-Text classification
-
-Model deployment
+# 📁 Repository 2
