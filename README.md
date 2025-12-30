@@ -40,6 +40,4 @@ Build and fine-tune a **BERT-based NLP model** to classify news headlines into p
 * Text classification
 * Model deployment
 
----
 
-# 📁 Repository 2
